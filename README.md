@@ -1,7 +1,7 @@
 # **RoofX-Net: A Tailored Approach to Accurate Multi-Type Rooftop Segmentation in Remote Sensing Images Using Edge and Scale Awareness**
 
 ## **Overview**
-This repository provides the implementation of the RoofX-Net model, a state-of-the-art solution designed for **multi-type rooftop segmentation** in remote sensing images. RoofX-Net leverages edge and scale awareness to achieve precise segmentation results.
+This repository provides the implementation of the RoofX-Net model, a solution designed for **multi-type rooftop segmentation** in remote sensing images. RoofX-Net leverages edge and scale awareness to achieve precise segmentation results.
 
 ## **Requirements**
 ### **Hardware**
