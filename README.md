@@ -8,7 +8,8 @@ This repository provides the implementation of the RoofX-Net model, a solution d
 - **GPU**: NVIDIA GPU with CUDA support (e.g., NVIDIA RTX 4090 or higher).
 
 ### **Software**
-- **Python**: 3.8.10.
+- **Python**: 3.9.10.
+- **Torch**: 1.13.1+cu117.
 - **Dependencies**:
   All required libraries are listed in `requirements.txt`.
 
