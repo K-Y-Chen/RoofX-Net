@@ -20,7 +20,7 @@ pip3 install -r requirements.txt
 
 ## **Dataset**
 ### **Rooftop+ Dataset**
-The Rooftop+ dataset is available upon reasonable request from the corresponding [authors](https://cwy@uestc.edu.cn)..
+The Rooftop+ dataset is available upon reasonable request from the corresponding [authors](mailto:cwy@uestc.edu.cn).
 
 ### **WHU Dataset**
 The WHU Dataset is publicly accessible and can be downloaded [here](https://gpcv.whu.edu.cn/data/building_dataset.html). 
